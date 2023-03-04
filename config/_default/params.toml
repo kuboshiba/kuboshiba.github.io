@@ -12,13 +12,13 @@ published = "Feb 16, 2023"
 lastUpdated = "Feb 16, 2023 20:30 JST"
 
 [sidebar]
-emoji = "🍔"
-subtitle = "IoT / Programming / PC Game"
+emoji = "🥕"
+subtitle = "React Native を必死に書いています"
 
 [sidebar.avatar]
 enabled = true
-local = true
-src = "img/avatar.png"
+local = false
+src = "img/avatar.jpeg"
 
 [article]
 math = false
