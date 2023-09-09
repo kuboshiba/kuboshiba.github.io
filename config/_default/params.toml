@@ -18,7 +18,7 @@ subtitle = "React Native を必死に書いています"
 [sidebar.avatar]
 enabled = true
 local = false
-src = "img/avatar.jpeg"
+src = "/img/avatar.jpeg"
 
 [article]
 math = false
