@@ -74,7 +74,7 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = true
+enabled = false
 provider = "gitalk"
 
 [comments.disqusjs]
@@ -137,11 +137,11 @@ reactionsEnabled = 1
 emitMetadata = 0
 
 [comments.gitalk]
-owner = "kuboshiba"
-admin = "kuboshiba"
-repo = "https://github.com/kuboshiba/gitalk"
-clientID = "7322d71f63d337c3f175"
-clientSecret = "1176709a089ba5bed1b94e1a5ef1f063d75d75df"
+owner = ""
+admin = ""
+repo = ""
+clientID = ""
+clientSecret = ""
 
 [comments.cusdis]
 host = ""
