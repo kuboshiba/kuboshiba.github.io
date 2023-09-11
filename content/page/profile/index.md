@@ -11,7 +11,9 @@ comments: false
 
 # Profile
 こんにちは！😃<br>
-アプリケーション・ソフトウェアエンジニアをやっている[H.Kubota](https://x.com/kuboshiba)です。
+アプリケーション・ソフトウェアエンジニアをやっている[H.Kubota](https://x.com/kuboshiba)です。<br>
+下に略歴やスキルについて書いています！<br>
+良かったら見てください👍
 
 ## Biography
 - 2015/04
@@ -22,6 +24,7 @@ comments: false
   - 徳島大学 理工学部理工学科情報光システムコース 第三学年編入
 - 2021/01
   - 個人事業主を開業し、業務委託でアプリケーションを開発
+    - PHP/HTML/CSS/Sass
     - React Native
     - ASP.NET Core
     - IBM Db2
@@ -36,3 +39,5 @@ comments: false
 ## Skills
 
 ## Works
+
+## My Dream
