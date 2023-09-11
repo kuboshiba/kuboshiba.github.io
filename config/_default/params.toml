@@ -3,6 +3,8 @@ mainSections = ["post"]
 # Output page's full content in RSS.
 rssFullContent = true
 
+favicon = "/img/avatar.jpeg"
+
 [footer]
 since = 2022
 customText = ""
