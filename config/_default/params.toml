@@ -74,8 +74,11 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = false
-provider = "gitalk"
+enabled = true
+provider = "disqus"
+
+[comments.disqus]
+disqusShortname = "kuboshibas-blog"
 
 [comments.disqusjs]
 shortname = ""
