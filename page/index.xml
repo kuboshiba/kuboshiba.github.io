@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on kuboshiba's blog</title><link>https://kuboshiba.github.io/page/</link><description>Recent content in Pages on kuboshiba's blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 11 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kuboshiba.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Who I am</title><link>https://kuboshiba.github.io/who-i-am/</link><pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate><guid>https://kuboshiba.github.io/who-i-am/</guid><description>&lt;h1 id="profile">Profile&lt;/h1>
+&lt;p>こんにちは！😃&lt;br>
+アプリケーション・ソフトウェアエンジニアをやっている&lt;a class="link" href="https://x.com/kuboshiba" target="_blank" rel="noopener"
+>H.Kubota&lt;/a>です。&lt;br>
+下に略歴やスキルについて書いています！&lt;br>
+良かったら見てください👍&lt;/p>
+&lt;h2 id="biography">Biography&lt;/h2>
+&lt;ul>
+&lt;li>2015/04
+&lt;ul>
+&lt;li>神戸市立工業高等専門学校 電子工学科 入学&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>2020/03
+&lt;ul>
+&lt;li>神戸市立工業高等専門学校 電子工学科 卒業&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>2020/04
+&lt;ul>
+&lt;li>徳島大学 理工学部理工学科情報光システムコース 第三学年編入&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>2021/01
+&lt;ul>
+&lt;li>個人事業主を開業し、業務委託でアプリケーションを開発&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>2022/03
+&lt;ul>
+&lt;li>徳島大学 理工学部理工学科情報光システムコース 卒業&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>2022/04
+&lt;ul>
+&lt;li>株式会社ゆめみ (サーバーサイドエンジニア) 入社&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="works">Works&lt;/h2>
+&lt;p>個人事業での実績はこちらになります。&lt;/p>
+&lt;ul>
+&lt;li>PHP / HTML / CSS / Sass / jQuery（〜1年）
+&lt;ul>
+&lt;li>個人事業者のホームページ制作&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>ASP.NET Core / PostgreSQL / IBM Db2（〜1年）
+&lt;ul>
+&lt;li>不動産の社内用ソフトウェアの開発&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Python（〜1年）
+&lt;ul>
+&lt;li>帳票データの画像解析&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>React / React Native（〜3年）
+&lt;ul>
+&lt;li>ケーブルテレビ会社のアプリ開発（iOS/Android）&lt;/li>
+&lt;li>停電情報のアプリ開発（iOS/Android）&lt;/li>
+&lt;li>TV用アプリの開発（Android TV）&lt;/li>
+&lt;li>クーポン配布アプリの開発（iOS/Android）&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills">Skills&lt;/h2>
+&lt;ul>
+&lt;li>React / React Native（Expoも可）&lt;/li>
+&lt;li>PHP Laravel&lt;/li>
+&lt;li>Database
+&lt;ul>
+&lt;li>MySQL&lt;/li>
+&lt;li>PostgreSQL&lt;/li>
+&lt;li>IBM Db2&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>AWS
+&lt;ul>
+&lt;li>serverless framework&lt;/li>
+&lt;li>Terraform&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>外形監視
+&lt;ul>
+&lt;li>Mackerel&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>GitHub Actions
+&lt;ul>
+&lt;li>CI/CD&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="my-dream">My Dream&lt;/h2></description></item><item><title>Archives</title><link>https://kuboshiba.github.io/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://kuboshiba.github.io/archives/</guid><description/></item><item><title>Links</title><link>https://kuboshiba.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuboshiba.github.io/links/</guid><description>&lt;p>kuboshibaに関するリンク集です。&lt;/p></description></item><item><title>Search</title><link>https://kuboshiba.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuboshiba.github.io/search/</guid><description/></item></channel></rss>
