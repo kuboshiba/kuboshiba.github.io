@@ -24,23 +24,16 @@ comments: false
   - 徳島大学 理工学部理工学科情報光システムコース 第三学年編入
 - 2021/01
   - 個人事業主を開業し、業務委託でアプリケーションを開発
-    - PHP / HTML / CSS / Sass
-    - React / React Native
-    - ASP.NET Core
-    - IBM Db2
-    - Python
 - 2022/03
   - 徳島大学 理工学部理工学科情報光システムコース 卒業
 - 2022/04
   - 株式会社ゆめみ (サーバーサイドエンジニア) 入社
-    - PHP Laravel
-    - AWS
 
 ## Works
 個人事業での実績はこちらになります。
-- PHP / HTML / CSS / Sass（〜1年）
+- PHP / HTML / CSS / Sass / jQuery（〜1年）
   - 個人事業者のホームページ制作
-- ASP.NET Core / IBM Db2（〜1年）
+- ASP.NET Core / PostgreSQL / IBM Db2（〜1年）
   - 不動産の社内用ソフトウェアの開発
 - Python（〜1年）
   - 帳票データの画像解析
@@ -51,5 +44,18 @@ comments: false
   - クーポン配布アプリの開発（iOS/Android）
 
 ## Skills
+- React / React Native（Expoも可）
+- PHP Laravel
+- Database
+  - MySQL
+  - PostgreSQL
+  - IBM Db2
+- AWS
+  - serverless framework
+  - Terraform
+- 外形監視
+  - Mackerel
+- GitHub Actions
+  - CI/CD
 
 ## My Dream
