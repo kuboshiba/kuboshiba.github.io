@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kuboshiba.github.io/sitemap.xml
