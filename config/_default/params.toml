@@ -21,13 +21,14 @@ showScrollToTop = true
 
 [homepage]
 layout = "profile"
-showRecent = "showRecent"
+showRecent = true
 showRecentItems = 5
-showMoreLink = false
+showMoreLink = true
 showMoreLinkDest = "/posts/"
 cardView = "cardView"
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
+homepageImage = "."
 
 [article]
 showDate = true
@@ -36,10 +37,10 @@ showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = true
-showHero = false
+showHero = true
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
-showBreadcrumbs = false
+showBreadcrumbs = true
 showDraftLabel = true
 showEdit = false
 editAppendPath = true
@@ -53,6 +54,7 @@ showTaxonomies = false
 showAuthorsBadges = false
 showWordCount = true
 showZenMode = false
+heroStyle = "basic"
 
 [list]
 showHero = false
