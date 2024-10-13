@@ -13,7 +13,7 @@ dateFormat = "2 January 2006"
 [params.author]
 name = "Haruki Kubota"
 headline = "Programmer | Aspiring Pilots"
-bio = ""
+bio = "Programmer | Aspiring Pilots"
 links = [
     { github = "https://github.com/kuboshiba" },
 ]
