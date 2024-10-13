@@ -9,4 +9,11 @@ displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
-author = { name = "Haruki Kubota" }
+
+[params.author]
+name = "Haruki Kubota"
+headline = "Programmer | Aspiring Pilots"
+bio = ""
+links = [
+    { github = "https://github.com/kuboshiba" },
+]
