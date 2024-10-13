@@ -10,6 +10,3 @@ isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 author = { name = "Haruki Kubota" }
-
-[author]
-links = []
