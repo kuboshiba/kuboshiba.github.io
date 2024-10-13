@@ -17,3 +17,4 @@ bio = "Programmer | Aspiring Pilots"
 links = [
     { github = "https://github.com/kuboshiba" },
 ]
+image = "img/icon.jpeg"
