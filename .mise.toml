@@ -2,5 +2,8 @@
 node = "22.2.0"
 python = "3.12.3"
 
+[tasks.server]
+run = "hugo server"
+
 [tasks."new post"]
 run = "python generate_hugo_post.py"
