@@ -2,16 +2,22 @@
 none = "none"
 
 [[main]]
+name = "Home"
+pageRef = "/"
+identifier = "iWit3D003f"
+weight = 1
+
+[[main]]
 name = "About"
 pageRef = "about"
 identifier = "7ifD5vExnZ"
-weight = 9999
+weight = 2
 
 [[main]]
 name = "Posts"
 pageRef = "posts"
 identifier = "3I8dM350GA"
-weight = 9999
+weight = 3
 
 [[footer]]
 none = "none"
