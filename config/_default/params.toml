@@ -43,6 +43,7 @@ layoutBackgroundHeaderSpace = false
 showBreadcrumbs = true
 showDraftLabel = true
 showEdit = true
+editURL = "https://github.com/kuboshiba/kuboshiba.github.io/blob/main/content"
 editAppendPath = true
 seriesOpened = false
 showHeadingAnchors = true
