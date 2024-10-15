@@ -19,5 +19,11 @@ pageRef = "posts"
 identifier = "3I8dM350GA"
 weight = 3
 
+[[main]]
+name = "Resume"
+pageRef = "resume"
+identifier = "0veLWM3NhD"
+weight = 4
+
 [[footer]]
 none = "none"
