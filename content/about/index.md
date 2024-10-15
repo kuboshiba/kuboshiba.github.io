@@ -5,4 +5,6 @@ draft: false
 tags: []
 ---
 
-My name is Haruki Kubota.
+こんにちは！私はソフトウェアエンジニアのHaruki Kubotaです。
+ああああ
+ああああ

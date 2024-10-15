@@ -1,14 +1,14 @@
 disabled = false
-languageCode = "en"
-languageName = "English"
-weight = 2
+languageCode = "ja"
+languageName = "Japanese"
+weight = 1
 title = "Haruki's Blog"
 
 [params]
-displayName = "EN"
-isoCode = "en"
+displayName = "JA"
+isoCode = "ja"
 rtl = false
-dateFormat = "2 January 2006"
+dateFormat = "2006年1月2日"
 
 [params.author]
 name = "Haruki Kubota"
